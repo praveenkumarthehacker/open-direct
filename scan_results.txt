@@ -1,0 +1,1 @@
+No open redirect detected for: https://www.truecaller.com
